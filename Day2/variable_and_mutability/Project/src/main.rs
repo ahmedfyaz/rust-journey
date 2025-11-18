@@ -1,3 +1,7 @@
+//problem 5
+#![allow(unused_variables)]
+#![allow(dead_code)]
+#![allow(unused_assignments)]
 //problem 4
 
 const TOUCH_DOWN :i32 = 6;
@@ -22,5 +26,9 @@ fn main() {
     let event_time = "06:00";
     let event_time = 6.00;
     println!("event time is {}",event_time);
+
+    //problem 5
+    let _veges = "bringle";
+    let veges = "carrots";
 
 }
